@@ -11,7 +11,7 @@ I mainly made this so Structura can be used on Android devices 😄
 
 ## Credits
 
-- **Android Port / Mobile Stuff**: **joncarl-15**  
+- **Android Port / Mobile Stuff**: **joncarl-15****(sudo-carl)**
 - **Original Structura Creator**: **RavinMaddHatter**  
   - Original project: https://github.com/RavinMaddHatter/Structura
 
